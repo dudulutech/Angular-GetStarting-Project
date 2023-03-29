@@ -30,4 +30,5 @@ COMPONENTS	DETAILS
 <app-root>	The first component to load and the container for the other components
 <app-top-bar>	The store name and checkout button
 <app-product-list>	The product list
-<app-product-alerts>	A component that contains the application's alerts
+<app-product-alerts>	A component that contains the application's alerts![app-components](https://user-images.githubusercontent.com/54180058/228468735-b54b8283-ae7f-4e96-a4b8-4e2e9de5b28b.png)
+
